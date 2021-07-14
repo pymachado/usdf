@@ -1,0 +1,1 @@
+USDF Faucet Coin is a token ERC20 that allow you sync with your DAPPS
